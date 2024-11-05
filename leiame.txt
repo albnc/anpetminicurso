@@ -1,3 +1,7 @@
 Versao inicial do curso. Neste repositório ficará qualquer atualização.
 
+Um arquivo maior com trecho dos dados do NGSIM (com algum processamento com código aqui neste repositório) pode ser baixado neste link:
+
+https://drive.google.com/file/d/123ffCiyUL8dmbUCaOi7cMc0WnrXwzTsn/view?usp=drive_link
+
 Informações e meu contato pode ser buscado no meu site: https://www.felipedesouza.net/
